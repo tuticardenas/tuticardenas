@@ -3,7 +3,7 @@ Backend developer with a biomedical engineering background, focused on cloud, da
 
 ---
 
-## Snapshot
+## 🧭 Snapshot
 - **Role:** Backend Developer at Accenture (banking/financial systems)
 - **Background:** Biomedical Engineer → Software Developer
 - **Focus:** Cloud data engineering, clinical data, and healthcare tech
@@ -11,7 +11,7 @@ Backend developer with a biomedical engineering background, focused on cloud, da
 
 ---
 
-## What I'm Working On
+## 🚀 What I'm Working On
 - Preparing for **Google Cloud Professional Data Engineer**
 - Growing in **clinical data engineering**
 - Exploring **medical imaging** and **biomedical signal processing**
@@ -19,21 +19,15 @@ Backend developer with a biomedical engineering background, focused on cloud, da
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 **Languages:** Python, Java, JavaScript  
 **Frameworks:** Flask, Spring Boot, React  
 **Cloud & Databases:** GCP, BigQuery, Cloud Run, Firestore
 
 ---
 
-## Beyond Tech
+## 🎧 Beyond Tech
 Gym, anime, guitar, coffee, and fantasy books (*The Bloodsworn Saga*).
-
----
-
-## Connect
-- **LinkedIn:** [add-link-here]
-- **Email:** [add-email-here]
 
 ---
 
