@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Andres 👋
+Backend developer with a biomedical engineering background, focused on cloud, data, and healthcare technology.
 
-<!--
-**tuticardenas/tuticardenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Snapshot
+- **Role:** Backend Developer at Accenture (banking/financial systems)
+- **Background:** Biomedical Engineer → Software Developer
+- **Focus:** Cloud data engineering, clinical data, and healthcare tech
+- **Goal:** Build data-driven software that improves medical services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Working On
+- Preparing for **Google Cloud Professional Data Engineer**
+- Growing in **clinical data engineering**
+- Exploring **medical imaging** and **biomedical signal processing**
+- Building projects at the intersection of **cloud + backend + healthcare**
+
+---
+
+## Tech Stack
+**Languages:** Python, Java, JavaScript  
+**Frameworks:** Flask, Spring Boot, React  
+**Cloud & Databases:** GCP, BigQuery, Cloud Run, Firestore
+
+---
+
+## Beyond Tech
+Gym, anime, guitar, coffee, and fantasy books (*The Bloodsworn Saga*).
+
+---
+
+## Connect
+- **LinkedIn:** [add-link-here]
+- **Email:** [add-email-here]
+
+---
+
+⭐ Open to collaborations in healthcare, cloud, and data engineering.
